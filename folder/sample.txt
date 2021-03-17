@@ -1,3 +1,6 @@
 Welcome to sample file
 Added hi in trail 
 added a line in master branch
+added a line in branch1
+one more line in branch1
+
