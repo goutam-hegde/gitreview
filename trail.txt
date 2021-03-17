@@ -1,1 +1,2 @@
 Welcome to sample file
+Added hi in trail 
